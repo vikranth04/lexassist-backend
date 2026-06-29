@@ -1,0 +1,1 @@
+# Deprecated. Split into chroma_client.py, collection_manager.py, vector_manager.py.

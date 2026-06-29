@@ -1,0 +1,25 @@
+{
+  "source_id": "SRC_WEB_9EDF2D5A",
+  "page_id": "PAGE_B6C76D68",
+  "url": "https://example.com/",
+  "title": "Example Domain",
+  "metadata": {
+    "source_id": "SRC_WEB_9EDF2D5A",
+    "page_url": "https://example.com/",
+    "domain": "example.com",
+    "title": "Example Domain",
+    "description": "",
+    "language": "en",
+    "crawl_timestamp": 1782708721.0286472,
+    "content_length": 130,
+    "internal_link_count": 0
+  },
+  "section_hierarchy": [
+    {
+      "level": "h1",
+      "text": "Example Domain"
+    }
+  ],
+  "clean_content": "Example Domain\n\n\nThis domain is for use in documentation examples without needing permission. Avoid use in operations.\n\nLearn more",
+  "crawl_timestamp": 1782708721.0286472
+}
