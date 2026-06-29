@@ -1,3 +1,12 @@
-﻿# LexAssist Backend
+﻿---
+title: LexAssist Backend
+emoji: ⚖️
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+pinned: false
+---
 
-FastAPI backend service placeholder.
+# LexAssist Backend
+
+FastAPI backend for the LexAssist AI Legal Assistant.
